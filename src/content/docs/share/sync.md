@@ -34,9 +34,7 @@ Your name, appearance, shortcuts, and comments you have not posted yet stay on e
 
 ## When Relua checks the folder
 
-You do not have to do anything. Relua reads the folder when it opens, when you come back to its window, when you return to the **Projects** screen, and every five minutes while it is open. It writes your own changes to the folder as you make them.
-
-To check straight away, switch to another app and back.
+You do not have to do anything. Relua watches the folder, so a change from another computer appears as soon as the cloud drive brings it in, even while you are in the middle of a video. It also reads the folder when it opens and when you come back to its window, and it writes your own changes to the folder as you make them.
 
 New comments usually reach the other computer within seconds of the cloud drive syncing. A new video appears there once the cloud drive has finished downloading its file.
 
