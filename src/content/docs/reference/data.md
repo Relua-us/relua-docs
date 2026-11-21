@@ -43,4 +43,4 @@ Relua works offline. It contacts GitHub to check for an update when it opens and
 
 ## Keep it safe
 
-The folder is the only copy of your work. See [Back up and move your library](/share/backup/). To use Relua on more than one computer, choose a library folder in a cloud drive as described in [Use Relua on two computers](/share/sync/); do not put this data folder itself in a cloud drive.
+The folder is the only copy of your work. See [Back up and move your library](/share/backup/). To use Relua on more than one computer, keep a project in a folder in a cloud drive as described in [Use Relua on two computers](/share/sync/); do not put this data folder itself in a cloud drive.
