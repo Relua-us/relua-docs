@@ -1,0 +1,35 @@
+---
+title: Home
+description: How to install and use Relua, the free video review app for Mac and Windows.
+template: splash
+hero:
+  title: Relua Docs
+  tagline: Relua is a free app for reviewing video on Mac and Windows. Draw on a frame, leave a comment, and share the review for someone to watch on their own time.
+  image:
+    file: ../../assets/relua-mark.svg
+    alt: ''
+  actions:
+    - text: Install Relua
+      link: /start/install/
+      icon: right-arrow
+    - text: Your first review
+      link: /start/first-review/
+      variant: minimal
+---
+
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## Find your way around
+
+<CardGrid>
+  <LinkCard title="Projects, folders, and videos" description="Bring footage in and keep it organized." href="/guides/library/" />
+  <LinkCard title="Draw on video" description="Pen, arrow, and ellipse on a paused frame or while the video plays." href="/guides/drawing/" />
+  <LinkCard title="Comments and replies" description="Leave a note on the exact frame and answer each other." href="/guides/comments/" />
+  <LinkCard title="Live recordings" description="Record a whole film session for someone to replay." href="/guides/live/" />
+  <LinkCard title="Share a review" description="Send a project or one video as a single file." href="/share/export-import/" />
+  <LinkCard title="Use Relua on two computers" description="Move your work between a Mac and a PC, with iCloud Drive, Google Drive, or OneDrive." href="/share/sync/" />
+  <LinkCard title="Keyboard shortcuts" description="Every shortcut, and how to change them." href="/reference/shortcuts/" />
+  <LinkCard title="Troubleshooting" description="What to try when something is not working." href="/help/troubleshooting/" />
+</CardGrid>
+
+Everything in Relua stays on your computer. There is no account and nothing is uploaded. If you cannot find an answer here, write to [support@relua.us](mailto:support@relua.us).
