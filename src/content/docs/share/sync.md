@@ -56,7 +56,7 @@ Any service that puts a folder in Finder or File Explorer works. Save exports in
 Cloud drives often show a file before it has finished downloading. If a file has a cloud icon next to it, let it download first:
 
 - **iCloud Drive on a Mac:** right-click the file and choose **Download Now**.
-- **OneDrive and iCloud Drive on Windows:** right-click the file and choose **Always keep on this device**.
+- **OneDrive, and iCloud Drive on Windows:** right-click the file and choose **Always keep on this device**.
 - **Google Drive:** right-click the file and choose **Offline access › Available offline**.
 
 ## Share a folder with other people
