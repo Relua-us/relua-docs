@@ -15,21 +15,29 @@ You need Relua 0.3.0 or later on every computer.
 When Relua starts without a folder, it asks where your projects should live.
 
 1. Choose **Create**.
-2. Pick a place in your cloud drive, for example **iCloud Drive**. Relua makes a folder named `Relua` there.
+2. Give the folder a name, or keep `Relua`.
+3. Choose **Browse** and pick a place in your cloud drive, for example **iCloud Drive**.
+4. Choose **Create**.
 
-If you already use Relua, choose the folder's name at the top of the **Projects** screen, then **Create**. Your projects are added to the new folder.
+If you used Relua before this version, your projects are added to the folder you create.
 
 ## On another computer
 
-1. Wait for the cloud drive to bring the `Relua` folder to that computer.
+1. Wait for the cloud drive to bring the folder to that computer.
 2. Open Relua and choose **Open**.
-3. Pick the `Relua` folder.
+3. Pick the folder.
 
 Your projects appear with their comments. From then on, a change made on one computer appears on the other by itself, as soon as the cloud drive brings it in. That includes new projects.
 
 :::note
 On a Mac, macOS may ask whether Relua can access files in your cloud drive. Choose **Allow**.
 :::
+
+## More than one folder
+
+You can keep separate folders, for example one per team or season. On the **Projects** screen, choose the folder button, then **Create** or **Open**. The same screen lists your folders; select one to switch to it. Each folder shows only its own projects.
+
+Removing a folder from the list leaves its files where they are. **Open** brings it back.
 
 ## Where the videos are
 
@@ -90,7 +98,7 @@ Anyone who has the folder can delete a video or a project for everyone, so share
 
 ## What is in the folder
 
-One folder for each project, named after the project when it was first added. Inside are one small `.json` file for the project, one for each video's comments, and any video files you chose to keep there. A hidden `.relua` folder marks the folder as Relua's.
+One folder for each project, named after the project when it was first added. Inside are one small `.json` file for the project, one for each video's comments, and any video files you chose to keep there. A hidden `.relua` folder marks the folder as Relua's, whatever the folder is called.
 
 Leave the `.json` files as they are: do not rename or edit them. Renaming a project in Relua does not rename its folder.
 
