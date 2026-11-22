@@ -1,68 +1,68 @@
 ---
 title: Projects, folders, and videos
-description: Organize your videos into projects and folders, and find, move, or delete them.
+description: Add, organize, find, move, and delete videos.
 sidebar:
   order: 1
 ---
 
-Projects hold your videos, and folders group them inside a project.
+Projects hold videos. Folders group videos inside a project.
 
 ## Projects
 
-The home screen is called **Projects**. Choose **New project** (<kbd>⌘</kbd><kbd>N</kbd> on Mac, <kbd>Ctrl</kbd><kbd>N</kbd> on Windows) to make one. Names can be up to 100 characters.
+**Projects** is the home screen.
 
-Each project has a **…** menu with **Rename**, **Export**, and **Delete**.
-
-To open one of your first nine projects quickly, press <kbd>⌘</kbd><kbd>1</kbd> to <kbd>⌘</kbd><kbd>9</kbd> on Mac, <kbd>Ctrl</kbd><kbd>1</kbd> to <kbd>Ctrl</kbd><kbd>9</kbd> on Windows.
+- **New project:** <kbd>⌘</kbd><kbd>N</kbd> on Mac, <kbd>Ctrl</kbd><kbd>N</kbd> on Windows. Names can be up to 100 characters.
+- A project's **…** menu has **Rename**, **Export**, and **Delete**.
+- Open one of your first nine projects with <kbd>⌘</kbd><kbd>1</kbd> to <kbd>⌘</kbd><kbd>9</kbd> on Mac, <kbd>Ctrl</kbd><kbd>1</kbd> to <kbd>Ctrl</kbd><kbd>9</kbd> on Windows.
+- The folder button switches to another [Relua folder](/share/sync/#more-than-one-folder).
 
 ## Folders
 
-Inside a project, choose **New folder** to group videos. Folders are one level deep, so you can only make them at the top level of a project, not inside another folder.
+Inside a project, choose **New folder**. Folders are one level deep.
 
-A folder's **…** menu has **Rename** and **Remove folder**. Removing a folder doesn't delete its videos. They go back to the top level of the project.
+A folder's **…** menu has **Rename** and **Remove folder**. Removing a folder keeps its videos. They return to the top level of the project.
 
 ## Add a video
 
-1. Open the project, or the folder you want the video in.
+1. Open the project, or the folder the video goes in.
 2. Choose **Add video** (<kbd>⌘</kbd><kbd>O</kbd> on Mac, <kbd>Ctrl</kbd><kbd>O</kbd> on Windows).
-3. Pick the video file.
+3. Pick the file.
+4. Relua asks **Copy the video into your Relua folder?** Choose **Copy** or **Leave it where it is**. See [Where the videos are](/share/sync/#where-the-videos-are).
 
-You add one video at a time, and drag and drop isn't supported. If you add a video from inside a folder, it goes into that folder. If you add the same file to a project twice, Relua reuses the video that's already there.
+- One video at a time. Drag and drop isn't supported.
+- Adding the same file to a project twice reuses the video already there.
+- Relua never changes your original file.
 
-These are the file types you can add:
+File types:
 
 - **Mac:** `.mp4`, `.mov`, `.m4v`
-- **Windows:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.wmv`, `.mkv`, `.webm`. Whether a file plays depends on the formats Windows itself can decode.
-
-Relua keeps one original-quality copy in your library. It never touches your original file, and it doesn't need it afterwards, so you can move, rename, or delete the original.
+- **Windows:** `.mp4`, `.mov`, `.m4v`, `.avi`, `.wmv`, `.mkv`, `.webm`. Whether a file plays depends on the formats Windows can decode.
 
 ## Search
 
-There's no sort control, so use search to find things. On the **Projects** screen the box reads **Search projects**. Inside a project it reads **Search videos and folders**.
+There's no sort control. Use **Search projects** on the **Projects** screen, or **Search videos and folders** inside a project.
 
 ## Move a video
 
-Open the video's **…** menu and choose **Move**. Pick a folder, or **Project videos** to put it at the top level of the project.
+Open the video's **…** menu and choose **Move**. Pick a folder, or **Project videos** for the top level.
 
 ## Switch between videos
 
-The breadcrumb at the top shows where you are: Relua / Project / Folder / Video. Click the video's name to open a menu where you can switch to any other video in the project or add one. Click the Relua mark to go back to **All projects**.
+Click the video's name in the breadcrumb at the top to switch to another video in the project, or to add one. Click the Relua mark to go back to **All projects**.
 
 :::note
 Added in Relua 0.3.0: the video menu also lists videos in other folders of the project.
 :::
-
-You can also use the keyboard:
 
 - Previous or next video: <kbd>⌥</kbd><kbd>↑</kbd> or <kbd>⌥</kbd><kbd>↓</kbd> on Mac, <kbd>Alt</kbd><kbd>↑</kbd> or <kbd>Alt</kbd><kbd>↓</kbd> on Windows.
 - Previous or next project: <kbd>⌘</kbd><kbd>⌥</kbd><kbd>↑</kbd> or <kbd>⌘</kbd><kbd>⌥</kbd><kbd>↓</kbd> on Mac, <kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>↑</kbd> or <kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>↓</kbd> on Windows.
 
 ## Delete a video or project
 
-Choose **Delete** from the video's or project's **…** menu. Relua asks first, with **Delete video?** or **Delete project?**.
+Choose **Delete** from its **…** menu. Relua asks first, with **Delete video?** or **Delete project?**.
 
-You can also press <kbd>⌘</kbd><kbd>Delete</kbd> on Mac, <kbd>Ctrl</kbd><kbd>Backspace</kbd> on Windows to delete a video, and add <kbd>Shift</kbd> to delete a project.
+From the keyboard, <kbd>⌘</kbd><kbd>Delete</kbd> on Mac, <kbd>Ctrl</kbd><kbd>Backspace</kbd> on Windows deletes a video. Add <kbd>Shift</kbd> to delete a project.
 
 :::caution
-Deleting is permanent and removes all of the video's or project's comments. It doesn't go to the Trash, and you can't get it back. If you might want it later, [export it](/share/export-import/) first.
+Deleting is permanent and removes the comments too, on every computer that uses the Relua folder. It doesn't go to the Trash. [Export it](/share/export-import/) first if you might want it back.
 :::

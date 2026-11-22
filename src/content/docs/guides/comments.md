@@ -1,62 +1,55 @@
 ---
 title: Comments and replies
-description: Leave comments on a frame, reply to them, and get deleted ones back.
+description: Leave, reply to, and restore comments.
 sidebar:
   order: 4
 ---
 
-A comment sits on the exact frame you leave it on, and anyone you share the review with can reply. You leave and read comments in **Review** mode.
+You leave and read comments in **Review** mode.
 
 ## Two kinds of comment
 
-A **Moment** is a drawing on one paused frame, with optional text. Use it when one still frame says what you mean.
-
-A **Live recording** captures what you do with the video over time, such as playing, scrubbing, and drawing, and replays it later for whoever reads it. See [Live recordings](/guides/live/).
+- **Moment**: a drawing on one paused frame, with optional text.
+- **Live recording**: what you do with the video over time, replayed for the reader. See [Live recordings](/guides/live/).
 
 ## Leave a Moment
 
-1. Make sure you are in **Review** mode.
-2. Pause on the frame you want to comment on.
-3. Pick **Pen**, **Arrow**, or **Ellipse** and draw on the video. The first stroke starts the comment on that exact frame and opens the comment box.
-4. Type in **Add a comment…** if you want to add text.
-5. Select **Post**, or press <kbd>⌘</kbd><kbd>Enter</kbd> on Mac, <kbd>Ctrl</kbd><kbd>Enter</kbd> on Windows.
+1. In **Review** mode, pause on the frame.
+2. Draw with **Pen**, **Arrow**, or **Ellipse**. The first stroke starts the comment on that frame and opens the comment box.
+3. Optionally type in **Add a comment…**.
+4. Select **Post**, or press <kbd>⌘</kbd><kbd>Enter</kbd> on Mac, <kbd>Ctrl</kbd><kbd>Enter</kbd> on Windows.
 
-The comment box also has **Hide comment** and **Discard comment**. Comments can be up to 16,000 characters, and drafts save automatically.
+The box also has **Hide comment** and **Discard comment**. Comments hold up to 16,000 characters. Drafts save automatically.
 
 ## What a comment needs before you can post it
 
-- A Moment needs a drawing. Text is optional. Without a drawing you see "Add a drawing before saving."
-- A Live recording needs text.
-- A reply needs text or a drawing.
+- Moment: a drawing. Otherwise you see "Add a drawing before saving."
+- Live recording: text.
+- Reply: text or a drawing.
 
 ## Replies
 
-Select **Reply** on a comment card and write in **Add a reply…**, then post it the same way.
+Select **Reply** on a card, write in **Add a reply…**, and post the same way.
 
 ## The comment card
 
-Each comment shows as a card on the video with its number, the name of the person who left it, and its time in the video.
+A card shows the comment's number, author, and time in the video.
 
-- Drag a card to move it, and drag its edge to resize it. Relua remembers where you put it.
-- Select **N replies** to expand or collapse a comment's replies. <kbd>⌘</kbd><kbd>Shift</kbd><kbd>R</kbd> on Mac, <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>R</kbd> on Windows expands or collapses all of them.
-- Press <kbd>↑</kbd> and <kbd>↓</kbd> to go to the previous or next comment.
-- Recorded comments also have **Play comment** or **Replay comment**.
+- Drag it to move it, or drag its edge to resize it. Relua remembers where you put it.
+- **N replies** expands or collapses replies. <kbd>⌘</kbd><kbd>Shift</kbd><kbd>R</kbd> on Mac, <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>R</kbd> on Windows does all of them.
+- Recorded comments add **Play comment** or **Replay comment**.
 
 ## Changing a comment
 
-Posted comments cannot be edited. To change one, delete it and post a new one.
+Posted comments cannot be edited. Delete and post again.
 
 ## Deleting and the Trash
 
-**Delete comment** on a card moves the comment to the Trash.
+**Delete comment** moves a comment to the Trash. A **Trash** button appears in the header when the open video has deleted comments. Entries show "Deleted by" and a name. **Restore** brings one back.
 
-When the open video has deleted comments, a **Trash** button appears in the header. The Trash lists each deleted comment with "Deleted by" and the person's name. Select **Restore** to bring one back.
-
-The Trash holds comments only. Deleted videos and projects do not go there. There is no Empty Trash.
+The Trash holds comments only, not videos or projects. There is no Empty Trash.
 
 ## Unposted comments
 
-- If you leave an unposted Live recording, Relua asks "Discard your recorded comment?" Choose **Keep editing** to go back or **Discard** to drop it.
+- Leaving an unposted Live recording asks "Discard your recorded comment?" Choose **Keep editing** or **Discard**.
 - An unposted Moment is dropped without asking when you press Play or leave.
-
-To see how comments behave during playback, read [Review mode](/guides/review/).

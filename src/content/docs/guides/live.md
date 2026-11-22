@@ -1,48 +1,35 @@
 ---
 title: Live recordings
-description: Record yourself working through the video so someone else can replay it.
+description: Record yourself working through the video for someone to replay.
 sidebar:
   order: 5
 ---
 
-A Live recording captures what you do with the video, so someone else can replay it exactly as you did it. Use one when a single frame is not enough, for example to talk someone through a play by showing it: run it back, slow it down, and draw as it happens.
+A Live recording captures what you do with the video, so someone else can replay it.
 
 ## Record one
 
-1. Make sure you are in **Review** mode.
-2. Press **Live**, or <kbd>M</kbd>. The button turns into a red Stop button that shows the elapsed time.
-3. Work through the video: play, pause, scrub, change speed, zoom, and draw.
-4. Press the Stop button, or <kbd>M</kbd>, to stop.
-5. Write a comment. A Live recording needs text before you can post it.
-6. Select **Post**.
+1. In **Review** mode, press **Live** or <kbd>M</kbd>. It turns into a red Stop button showing the elapsed time.
+2. Play, pause, scrub, change speed, zoom, and draw.
+3. Press Stop or <kbd>M</kbd>.
+4. Write a comment. Text is required.
+5. Select **Post**.
 
 ## What is captured
 
-A recording captures the whole session as you do it:
+Play, pause, scrubbing, speed changes (including reverse), frame steps, zoom and pan, pen, arrow, and ellipse drawings, the laser pointer, and **Clear drawings**. Not your voice or a video of you.
 
-- play, pause, and scrubbing
-- speed changes, including reverse
-- frame steps
-- zoom and pan
-- pen, arrow, and ellipse drawings
-- the laser pointer
-- clearing the drawings with **Clear drawings**
-
-It does not record your voice or a video of you. It records what you did, so recordings stay tiny.
-
-Pressing Play from a paused frame that has ink on it clears the ink.
+Pressing Play from a paused frame with ink on it clears the ink.
 
 ## The five-minute limit
 
-A recording can be up to five minutes long. It stops on its own when it reaches the limit.
+A recording stops on its own at five minutes.
 
 ## Replay one
 
-Recorded comments carry a purple replay symbol, both on the comment card and on the timeline. Select it to replay.
+Select the purple replay symbol on the comment card or the timeline. The video, playhead, and clock follow the reviewer. The card shows elapsed time and a progress bar.
 
-During a replay, the video, the playhead, and the clock follow what the reviewer did. The card shows the elapsed replay time and a progress bar.
-
-Play and Pause pause and resume the replay. When it reaches the end, Play continues the video from the last frame.
+Play and Pause pause and resume the replay. At the end, Play continues the video from the last frame.
 
 ## Move within a replay
 
@@ -50,9 +37,8 @@ Play and Pause pause and resume the replay. When it reaches the end, Play contin
 Added in Relua 0.3.0.
 :::
 
-- Drag the progress bar on the card.
-- Or click the timeline inside the recorded span. The timeline shows each span in purple.
+Drag the card's progress bar, or click inside the recorded span (purple) on the timeline.
 
 ## Leave a replay
 
-Select **Leave replay** (×) or press <kbd>Esc</kbd>. Clicking the timeline outside the recorded span also leaves the replay.
+Select **Leave replay** (×), press <kbd>Esc</kbd>, or click the timeline outside the recorded span.

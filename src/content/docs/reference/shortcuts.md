@@ -1,11 +1,9 @@
 ---
 title: Keyboard shortcuts
-description: Every default keyboard shortcut in Relua, and how to change them.
+description: Every default shortcut, and how to change them.
 sidebar:
   order: 1
 ---
-
-Every default shortcut, grouped the same way as in Settings. You can change any of them in **Settings** › **Shortcuts**.
 
 ## Playback
 
@@ -29,7 +27,7 @@ Every default shortcut, grouped the same way as in Settings. You can change any 
 
 ## Comments & drawing
 
-These shortcuts work in Review only. In Watch they do nothing; press <kbd>R</kbd> to switch to Review.
+Review only. Press <kbd>R</kbd> to switch from Watch.
 
 | Action | Mac | Windows |
 | --- | --- | --- |
@@ -64,24 +62,20 @@ These shortcuts work in Review only. In Watch they do nothing; press <kbd>R</kbd
 
 ## Other keys
 
-- <kbd>Esc</kbd> closes dialogs and menus, exits full screen, leaves a replay, or puts the drawing tool down.
-- In full-screen Review, <kbd>Page Up</kbd> and <kbd>Page Down</kbd> move between comments.
-- While the volume slider is open, <kbd>↑</kbd> and <kbd>↓</kbd> change the volume, and <kbd>Home</kbd> and <kbd>End</kbd> jump to 0 and 100.
+- <kbd>Esc</kbd>: closes dialogs and menus, exits full screen, leaves a replay, or puts the drawing tool down.
+- <kbd>Page Up</kbd> / <kbd>Page Down</kbd>: move between comments in full-screen Review.
+- Volume slider open: <kbd>↑</kbd> and <kbd>↓</kbd> change the volume, <kbd>Home</kbd> and <kbd>End</kbd> jump to 0 and 100.
 
 ## Change a shortcut
 
-You change shortcuts in **Settings** › **Shortcuts**. The shortcuts are listed in the same three groups as above, **Playback**, **Comments & drawing**, and **Library**.
+1. Open **Settings** › **Shortcuts** (<kbd>⌘</kbd><kbd>,</kbd> on Mac, <kbd>Ctrl</kbd><kbd>,</kbd> on Windows).
+2. Find the action, or type in **Search shortcuts**.
+3. Click its key and press the new keys, or <kbd>Esc</kbd> to cancel.
 
-1. Open Settings with the gear or <kbd>⌘</kbd><kbd>,</kbd> on Mac, <kbd>Ctrl</kbd><kbd>,</kbd> on Windows.
-2. Choose the **Shortcuts** tab.
-3. Find the action. You can type in **Search shortcuts** to narrow the list.
-4. Click the action's key.
-5. Press the new keys. Press <kbd>Esc</kbd> instead if you change your mind.
+**Clear** leaves it **Unassigned**. **Reset all** restores every default.
 
-To remove a shortcut without giving it a new one, choose **Clear**. The action then shows **Unassigned**. To go back to every default at once, choose **Reset all**.
+If Relua refuses the keys:
 
-If Relua cannot use the keys you pressed, it tells you why:
-
-- **Already used by** followed by an action name means another action has that combination.
-- **That shortcut is reserved for the system or text editing.** means the combination belongs to your operating system or to typing.
-- **Choose a letter, number, arrow, or navigation key.** means the key you pressed cannot be a shortcut.
+- **Already used by** an action name: another action has them.
+- **That shortcut is reserved for the system or text editing.**
+- **Choose a letter, number, arrow, or navigation key.**

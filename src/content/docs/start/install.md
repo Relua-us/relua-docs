@@ -1,20 +1,20 @@
 ---
 title: Install Relua
-description: Download the right version of Relua for your computer and install it on Mac or Windows.
+description: Download and install Relua on Mac or Windows.
 sidebar:
   order: 1
 ---
 
-Relua is free for personal and commercial use, and you don't need an account or a sign-in.
+Relua is free and needs no account.
 
 ## What you need
 
-- A Mac with macOS 14 or later, or
-- A Windows PC with Windows 10 version 2004 or later.
+- macOS 14 or later, or
+- Windows 10 version 2004 or later.
 
-## Pick the right download
+## Download
 
-Go to the [download page](https://relua.us/download.html). There are four downloads, and the website picks the right one for you when it can tell. If it can't, choose one yourself.
+Go to the [download page](https://relua.us/download.html). It picks your version when it can. Otherwise choose one:
 
 | Computer | Download | File |
 | --- | --- | --- |
@@ -23,21 +23,14 @@ Go to the [download page](https://relua.us/download.html). There are four downlo
 | Windows PC with an Intel or AMD processor | **Intel / AMD x64** | `Relua-windows-x64-setup.exe` |
 | Windows PC with an ARM processor | **ARM64** | `Relua-windows-arm64-setup.exe` |
 
-### Which Mac do you have
-
-Open the Apple menu and choose **About This Mac**. If you see a line called **Chip**, your Mac has Apple silicon. If you see **Processor**, it has an Intel processor.
-
-### Which Windows PC do you have
-
-Open **Settings** › **System** › **About** and look at **System type**. It says either x64-based or ARM-based.
+- **Mac:** open the Apple menu › **About This Mac**. **Chip** means Apple silicon. **Processor** means Intel.
+- **Windows:** open **Settings** › **System** › **About** and read **System type**: x64-based or ARM-based.
 
 ## Install on a Mac
 
-1. Open the `.dmg` file you downloaded.
-2. Drag Relua to your Applications folder.
+1. Open the `.dmg`.
+2. Drag Relua to Applications.
 3. Open Relua from Applications.
-
-Mac downloads are signed and notarized by Apple.
 
 :::note
 Keep Relua in Applications. It can only update itself from there.
@@ -45,21 +38,24 @@ Keep Relua in Applications. It can only update itself from there.
 
 ## Install on Windows
 
-1. Run the setup file you downloaded.
-2. If Windows shows **Windows protected your PC**, choose **More info**, then **Run anyway**. This appears because the Windows installer is not code-signed yet.
-3. Follow the installer. At the end, leave **Open Relua** checked to start the app straight away.
+1. Run the setup file.
+2. If you see **Windows protected your PC**, choose **More info**, then **Run anyway**. The installer is not code-signed yet.
+3. Finish the installer. Relua is then in the Start menu.
 
-The installer sets Relua up for your user account only, so it doesn't need an administrator password. Afterwards you'll find **Relua** in the Start menu.
+No administrator password is needed.
 
 ## First launch
 
-The first time you open Relua, a **Username** dialog asks for your name. It's only used so others recognize your comments. You can't skip it, but you can change it later in **Settings** › **Profile**.
+1. **Username:** type your name. It shows on your comments. Change it later in **Settings** › **Profile**.
+2. **Create a folder:** choose **Create**, name the folder, choose **Browse** to pick where it goes, and choose **Create**. This is your Relua folder, where your projects live. If you already have one, choose **Open** and pick it.
 
-When you're set up, follow [Your first review](/start/first-review/). To learn how Relua keeps itself up to date, see [Updates](/reference/updates/).
+To use Relua on more than one computer, put the folder in a cloud drive. See [Use Relua on two computers](/share/sync/).
+
+Next: [Your first review](/start/first-review/).
 
 ## Uninstall
 
 - **Mac:** drag Relua from Applications to the Trash.
 - **Windows:** open **Settings** › **Apps** › **Installed apps** and remove **Relua**.
 
-Uninstalling removes the app but keeps your library. To remove your projects, videos, and comments too, delete the data folder described in [Where Relua keeps your data](/reference/data/).
+Your projects stay. To remove them too, delete your Relua folder and the [data folder](/reference/data/).

@@ -16,7 +16,7 @@ Pages live in `src/content/docs/`:
 | `reference/` | Shortcuts, settings, and where data is kept |
 | `help/` | Tips and troubleshooting |
 
-Write the way you would explain the app to a friend: plain headings, full sentences, and the exact names the app shows on screen.
+Keep pages short. Say what to do, in steps or short bullets, with the exact names the app shows on screen. Leave out anything a reader does not act on.
 
 ## Preview locally
 

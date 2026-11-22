@@ -5,27 +5,20 @@ sidebar:
   order: 6
 ---
 
-Review mode plays the video and stops at every comment, so you can read each one in turn. It is the default mode in the player.
+Review is the player's default mode.
 
 ## Stopping at comments
 
-In **Review**, playback pauses at each comment and shows its drawing and replies. Press Play, or <kbd>Space</kbd>, once to carry on.
-
-Live comments play in place when the video reaches them.
-
-Stepping frame by frame with <kbd>←</kbd> and <kbd>→</kbd> onto a comment shows it too.
+Playback pauses at each comment and shows its drawing and replies. Press Play or <kbd>Space</kbd> to carry on. Live comments play in place. Stepping onto a comment with <kbd>←</kbd> or <kbd>→</kbd> also shows it.
 
 ## Moving between comments
 
-- Press <kbd>↑</kbd> and <kbd>↓</kbd> to jump to the previous or next comment.
-- In full screen, <kbd>Page Up</kbd> and <kbd>Page Down</kbd> move between comments.
+<kbd>↑</kbd> and <kbd>↓</kbd> go to the previous or next comment. In full screen, use <kbd>Page Up</kbd> and <kbd>Page Down</kbd>.
 
 ## The timeline
 
-In Review, the timeline shows a marker for each comment. Where several sit close together, the marker shows a count. Purple replay markers show Live recordings, with spans for the parts of the video each one used.
+Each comment has a marker. Close markers show a count. Purple replay markers show Live recordings, with spans for the parts of the video each used.
 
 ## Play straight through
 
-Switch to **Watch** with <kbd>R</kbd> or the toggle in the controls. Watch plays straight through with no comments or tools.
-
-For the rest of the player controls, see [Playback](/guides/playback/). To leave comments, see [Comments and replies](/guides/comments/).
+Switch to **Watch**. See [Watch and move through a video](/guides/playback/).
