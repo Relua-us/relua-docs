@@ -5,10 +5,6 @@ sidebar:
   order: 7
 ---
 
-:::note
-Added in Relua 0.3.0.
-:::
-
 Drawing works in **Review** mode only. See [Draw on video](/guides/drawing/).
 
 ## Windows

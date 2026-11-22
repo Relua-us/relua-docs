@@ -8,8 +8,6 @@ sidebar:
 
 Your projects live in a **Relua folder**. Put it in iCloud Drive, Google Drive, or OneDrive, and the cloud drive carries it to your other computers, Mac or PC.
 
-You need Relua 0.3.0 or later on every computer.
-
 ## Set it up
 
 On the first computer:
@@ -17,8 +15,6 @@ On the first computer:
 1. When Relua asks for a folder, choose **Create**.
 2. Name the folder, choose **Browse**, and pick a place in your cloud drive.
 3. Choose **Create**.
-
-Projects from an earlier version of Relua are added to the folder.
 
 On the other computer:
 

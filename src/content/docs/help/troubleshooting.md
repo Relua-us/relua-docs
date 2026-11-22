@@ -24,7 +24,7 @@ The file is **Comments only** and its video is not in your library. Add the vide
 
 ## "This pack was exported by a newer Relua version"
 
-[Update Relua](/reference/updates/), then import again. If the message names an older file, it is from Relua 0.2.0 or earlier. Ask the sender to export it again.
+[Update Relua](/reference/updates/), then import again.
 
 ## The update cannot reach GitHub
 

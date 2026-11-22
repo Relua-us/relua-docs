@@ -50,9 +50,7 @@ Open the video's **…** menu and choose **Move**. Pick a folder, or **Project v
 
 Click the video's name in the breadcrumb at the top to switch to another video in the project, or to add one. Click the Relua mark to go back to **All projects**.
 
-:::note
-Added in Relua 0.3.0: the video menu also lists videos in other folders of the project.
-:::
+The menu also lists videos in other folders of the project.
 
 - Previous or next video: <kbd>⌥</kbd><kbd>↑</kbd> or <kbd>⌥</kbd><kbd>↓</kbd> on Mac, <kbd>Alt</kbd><kbd>↑</kbd> or <kbd>Alt</kbd><kbd>↓</kbd> on Windows.
 - Previous or next project: <kbd>⌘</kbd><kbd>⌥</kbd><kbd>↑</kbd> or <kbd>⌘</kbd><kbd>⌥</kbd><kbd>↓</kbd> on Mac, <kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>↑</kbd> or <kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>↓</kbd> on Windows.

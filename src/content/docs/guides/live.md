@@ -33,10 +33,6 @@ Play and Pause pause and resume the replay. At the end, Play continues the video
 
 ## Move within a replay
 
-:::note
-Added in Relua 0.3.0.
-:::
-
 Drag the card's progress bar, or click inside the recorded span (purple) on the timeline.
 
 ## Leave a replay

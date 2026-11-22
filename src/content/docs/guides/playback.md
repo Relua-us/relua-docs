@@ -39,10 +39,6 @@ The zoom button (**Fit** by default): **Fit**, 150%, 200%, 300%, 400%. <kbd>=</k
 
 ## Volume
 
-:::note
-Added in Relua 0.3.0.
-:::
-
 The **Volume** speaker button opens a slider. While it's open, <kbd>↑</kbd> and <kbd>↓</kbd> change the volume, and <kbd>Home</kbd> and <kbd>End</kbd> jump to 0 and 100. Unmuting returns to your last volume.
 
 ## Full screen

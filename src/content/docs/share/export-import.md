@@ -46,4 +46,4 @@ Settings, shortcuts, and unposted comments are not exported.
 
 ## Different versions of Relua
 
-A newer Relua's file does not open in an older one. [Update Relua](/reference/updates/) and import again. Files from Relua 0.2.0 or earlier must be exported again with the current version.
+A newer Relua's file does not open in an older one. [Update Relua](/reference/updates/) and import again.

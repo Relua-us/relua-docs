@@ -21,20 +21,12 @@ Click the gear, or press <kbd>⌘</kbd><kbd>,</kbd> on Mac, <kbd>Ctrl</kbd><kbd>
 
 ## Pen & touch (Windows)
 
-:::note
-Added in Relua 0.3.0.
-:::
-
 - **Pen always draws** (on by default): a pen draws as soon as it touches the video.
 - **Draw with finger** (off by default): a finger always draws. Off, it draws only after you pick a drawing tool.
 
 See [Pen, stylus, and touch](/guides/pen-and-touch/).
 
 ## Stylus (Mac)
-
-:::note
-Added in Relua 0.3.0.
-:::
 
 - **Stylus always draws** (on by default): an Apple Pencil through Sidecar, or a graphics tablet, draws as soon as it touches the video.
 
