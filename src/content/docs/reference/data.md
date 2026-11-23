@@ -27,7 +27,7 @@ The data folder cannot be moved. Uninstalling Relua leaves it on a Mac. On Windo
 | Item | What it holds |
 | --- | --- |
 | `relua.sqlite3` and the files beside it | Projects, folders, comments, drawings, Live recordings, the Trash, your name, settings, and shortcuts |
-| `media` | Relua's own copy of each video you added |
+| `media` | Relua's own copy of each video you added, and voice recordings |
 | `thumbnails` | The pictures on the timeline |
 | `updates` | Downloaded updates, until they are installed |
 | `cache`, `tmp`, `config` | Working files |

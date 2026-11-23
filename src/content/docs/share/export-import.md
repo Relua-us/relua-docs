@@ -40,9 +40,10 @@ Send **With videos** once, then **Comments only**.
 | --- | --- |
 | `relua.json` | The project, its folders, and the list of videos |
 | One `.json` per video | That video's comments, replies, drawings, Live recordings, and Trash history |
+| Voice recordings | Always, with their comments |
 | The video files | Only with **With videos** |
 
-Voice recordings are part of their comments, so they travel in the `.zip` too. Settings, shortcuts, and unposted comments are not exported.
+Settings, shortcuts, and unposted comments are not exported.
 
 ## Different versions of Relua
 
