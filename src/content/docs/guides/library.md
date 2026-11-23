@@ -24,12 +24,14 @@ A folder's **…** menu has **Rename** and **Remove folder**. Removing a folder 
 
 ## Add a video
 
-1. Open the project, or the folder the video goes in.
+1. Open the project, or the folder the videos go in.
 2. Choose **Add video** (<kbd>⌘</kbd><kbd>O</kbd> on Mac, <kbd>Ctrl</kbd><kbd>O</kbd> on Windows).
-3. Pick the file.
-4. Relua asks **Copy the video into your Relua folder?** Choose **Copy** or **Leave it where it is**. See [Where the videos are](/share/sync/#where-the-videos-are).
+3. Pick one file, or several.
+4. Relua asks **Copy the video into your Relua folder?** Choose **Copy** or **Leave it where it is**. For several videos it asks once, with **Copy** or **Leave them where they are**. See [Where the videos are](/share/sync/#where-the-videos-are).
 
-- One video at a time. Drag and drop isn't supported.
+One video opens for review. Several show together in the project, and the status line counts them as they go in, such as "Adding videos… 2 of 5". If a file cannot be added, the others still are, and a message names it.
+
+- Drag and drop isn't supported.
 - Adding the same file to a project twice reuses the video already there.
 - Relua never changes your original file.
 

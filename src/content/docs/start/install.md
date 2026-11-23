@@ -55,7 +55,7 @@ Next: [Your first review](/start/first-review/).
 
 ## Uninstall
 
-- **Mac:** drag Relua from Applications to the Trash.
-- **Windows:** open **Settings** › **Apps** › **Installed apps** and remove **Relua**.
+- **Mac:** drag Relua from Applications to the Trash. The [data folder](/reference/data/) stays.
+- **Windows:** open **Settings** › **Apps** › **Installed apps** and remove **Relua**. It asks **Also delete Relua's settings, drafts, and library copies of your videos from this computer?** **No**, the default, keeps them. **Yes** empties the [data folder](/reference/data/).
 
-Your projects stay. To remove them too, delete your Relua folder and the [data folder](/reference/data/).
+Your Relua folder and its projects always stay. To remove them too, delete your Relua folder, and the data folder if it is still there.

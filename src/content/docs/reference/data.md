@@ -20,7 +20,7 @@ Relua keeps your work in two places:
 - **Mac:** in Finder, choose **Go › Go to Folder…**, paste the path, and press <kbd>Return</kbd>.
 - **Windows:** paste the path into the File Explorer address bar and press <kbd>Enter</kbd>.
 
-The data folder cannot be moved.
+The data folder cannot be moved. Uninstalling Relua leaves it on a Mac. On Windows the uninstaller asks whether to empty it. See [Uninstall](/start/install/#uninstall).
 
 ## What is inside
 
@@ -44,7 +44,7 @@ In this version, deleting a video or a project leaves its copy in `media`. Addin
 
 Relua works offline. It contacts GitHub to check for an update when it opens and every 12 hours, and to download one when you ask. Nothing about your library is sent. There is no telemetry, analytics, or ads.
 
-A Relua folder inside a cloud drive is carried by that cloud drive, not by Relua.
+A Relua folder inside a cloud drive is carried by that cloud drive, not by Relua. That includes voice recordings, which never leave your computer any other way.
 
 ## Keep it safe
 

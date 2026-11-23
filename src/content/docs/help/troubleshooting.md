@@ -16,7 +16,14 @@ Accepted formats:
 - Mac: .mp4, .mov, .m4v
 - Windows: .mp4, .mov, .m4v, .avi, .wmv, .mkv, .webm
 
-Windows must also be able to decode the file. Converting to .mp4 with H.264 is safest. Add one video at a time with **Add video**, not by drag and drop.
+Windows must also be able to decode the file. Converting to .mp4 with H.264 is safest. Add videos with **Add video**, not by drag and drop.
+
+## Relua cannot use the microphone
+
+The first time you record, your computer asks to let Relua use the microphone. If you refused, allow it here:
+
+- **Mac:** **System Settings** › **Privacy & Security** › **Microphone**
+- **Windows:** **Settings** › **Privacy & security** › **Microphone**
 
 ## "Missing video files" when importing
 

@@ -62,11 +62,13 @@ Relua fetches files the cloud drive has not downloaded yet. To have everything t
 ## What stays in step
 
 - Projects, their folders, and renames
-- Comments, replies, drawings, and Live recordings
+- Comments, replies, drawings, and Live recordings, with their voice. A comment can arrive before its voice does. Its player works once the file has synced.
 - The Trash
 - Deleting a video or a project
 
 Your name, appearance, shortcuts, where each video file is, and unposted comments stay on each computer.
+
+A computer with an older Relua does not show comments that carry voice until it is [updated](/reference/updates/).
 
 ## Deleting
 
@@ -88,7 +90,7 @@ Anyone with the folder can delete a video or a project for everyone. To send a r
 
 ## What is in the folder
 
-One folder per project, holding small `.json` files and any videos you copied in. A hidden `.relua` folder marks it as a Relua folder.
+One folder per project, holding small `.json` files, a hidden `.voice` folder with voice recordings, and any videos you copied in. A hidden `.relua` folder marks it as a Relua folder.
 
 Do not rename or edit the `.json` files. Renaming a project in Relua does not rename its folder.
 

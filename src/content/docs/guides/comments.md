@@ -24,12 +24,27 @@ The box also has **Hide comment** and **Discard comment**. Comments hold up to 1
 ## What a comment needs before you can post it
 
 - Moment: a drawing. Otherwise you see "Add a drawing before saving."
-- Live recording: text.
-- Reply: text or a drawing.
+- Live recording: text, or your voice recorded with it.
+- Reply: text, a drawing, or a voice note.
 
 ## Replies
 
 Select **Reply** on a card, write in **Add a reply…**, and post the same way.
+
+## Voice notes
+
+1. In the comment or reply box, select **Record voice note** (the waveform).
+2. Speak, then select the red stop button, which shows the elapsed time. A note can be up to 2 minutes.
+3. The note shows in the box as a small player. Listen to it, record again to replace it, or remove it.
+4. Post as usual.
+
+Posted comments and replies show the same player, and anyone with the project can play it. One voice note plays at a time, and playing one does not move the video.
+
+The first time you record, your computer asks to let Relua use the microphone. See [Troubleshooting](/help/troubleshooting/#relua-cannot-use-the-microphone) if you said no.
+
+## Dictation
+
+Select **Dictate** (the microphone) in the box to speak the text instead of typing it. It uses your computer's own dictation, with the language and settings you chose there: Dictation on a Mac, voice typing on Windows. On a Mac, turn Dictation on first in **System Settings** › **Keyboard**.
 
 ## The comment card
 

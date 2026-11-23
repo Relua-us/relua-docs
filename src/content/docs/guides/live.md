@@ -12,14 +12,20 @@ A Live recording captures what you do with the video, so someone else can replay
 1. In **Review** mode, press **Live** or <kbd>M</kbd>. It turns into a red Stop button showing the elapsed time.
 2. Play, pause, scrub, change speed, zoom, and draw.
 3. Press Stop or <kbd>M</kbd>.
-4. Write a comment. Text is required.
+4. Write a comment. Text is required unless you recorded your voice.
 5. Select **Post**.
 
 ## What is captured
 
-Play, pause, scrubbing, speed changes (including reverse), frame steps, zoom and pan, pen, arrow, and ellipse drawings, the laser pointer, and **Clear drawings**. Not your voice or a video of you.
+Play, pause, scrubbing, speed changes (including reverse), frame steps, zoom and pan, pen, arrow, and ellipse drawings, the laser pointer, and **Clear drawings**. Your voice, if you turn it on. Never a video of you.
 
 Pressing Play from a paused frame with ink on it clears the ink.
+
+## Record your voice
+
+Under **Live** in the tool rail is a microphone toggle, **Voice off for Live** or **Voice on for Live**. When it is on, the recording also captures your voice. Relua remembers your choice.
+
+Anyone who replays the comment hears you in step with the replay, with the video's own sound turned down.
 
 ## The five-minute limit
 
