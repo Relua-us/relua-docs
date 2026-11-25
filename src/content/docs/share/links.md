@@ -29,7 +29,7 @@ Relua does not send the emails. The people you name never reach our servers exce
 ## Open a link
 
 - **In a browser:** open the link. The video plays with its comments, drawings, voice notes, and Live recordings. Browsers cannot play every format. If the video does not play, import the link into Relua.
-- **In Relua:** choose **Import from link** on the **Projects** screen and paste the link. It imports like an [exported file](/share/export-import/), so you can reply and send your comments back as a file, or as a link of your own with a plan.
+- **In Relua:** choose the link button beside **Import** (**Import from link**) and paste the link. It imports like an [exported file](/share/export-import/), so you can reply and send your comments back as a file, or as a link of your own with a plan.
 
 ## See who opened it
 
@@ -53,4 +53,4 @@ We can see your account email and plan, how big each share is, when it was made 
 
 ## Cancel
 
-Choose **Manage plan** in **Settings › Account**, or **Manage or cancel** on [relua.us/account](https://relua.us/account). Your plan runs to the end of the period you paid for.
+Choose **Manage plan** in **Settings › Account** or on [relua.us/account](https://relua.us/account). Your plan runs to the end of the period you paid for. For a full refund, email [support@relua.us](mailto:support@relua.us) within 14 days of a payment.
