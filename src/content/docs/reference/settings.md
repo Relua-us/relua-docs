@@ -13,6 +13,10 @@ Click the gear, or press <kbd>⌘</kbd><kbd>,</kbd> on Mac, <kbd>Ctrl</kbd><kbd>
 
 - **Full name**: shown on your comments. Starts as the name you typed in the **Username** dialog.
 
+## Account
+
+Sign in with your email and the code we send you to use [share links](/share/links/). Your links, and who opened them, are listed here. Relua works without an account.
+
 ## Appearance
 
 - **System** (default): follows your computer.

@@ -2,10 +2,10 @@
 title: Back up and move your library
 description: Keep a safe copy of your reviews, and bring them to a new computer.
 sidebar:
-  order: 3
+  order: 4
 ---
 
-Relua has no cloud of its own, so backups are up to you.
+Relua does not keep a copy of your library, so backups are up to you. [Share links](/share/links/) expire and are not a backup.
 
 ## Export your projects
 

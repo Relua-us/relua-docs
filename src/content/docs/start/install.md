@@ -5,7 +5,7 @@ sidebar:
   order: 1
 ---
 
-Relua is free and needs no account.
+Relua is free and needs no account. Only [share links](/share/links/) need one.
 
 ## What you need
 

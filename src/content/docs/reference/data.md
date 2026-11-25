@@ -44,7 +44,9 @@ In this version, deleting a video or a project leaves its copy in `media`. Addin
 
 Relua works offline. It contacts GitHub to check for an update when it opens and every 12 hours, and to download one when you ask. Nothing about your library is sent. There is no telemetry, analytics, or ads.
 
-A Relua folder inside a cloud drive is carried by that cloud drive, not by Relua. That includes voice recordings, which never leave your computer any other way.
+A Relua folder inside a cloud drive is carried by that cloud drive, not by Relua.
+
+Relua contacts relua.us only if you sign in to an account or use a [share link](/share/links/). Creating a link uploads the videos and comments you chose, encrypted on your computer with a key that we never receive. Importing a link downloads them.
 
 ## Keep it safe
 

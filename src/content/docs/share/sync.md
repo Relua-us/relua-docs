@@ -2,7 +2,7 @@
 title: Use Relua on two computers
 description: Keep your Relua folder in a cloud drive and open it on every computer.
 sidebar:
-  order: 2
+  order: 3
   label: Sync between computers
 ---
 
