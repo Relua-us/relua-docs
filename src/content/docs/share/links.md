@@ -22,9 +22,9 @@ Share links need a [Relua Share plan](https://relua.us/pricing): $5 a month or $
 3. Pick how long the link works: 12, 24, 48, or 72 hours.
 4. To see who opens it, type their emails or names under **People**. Each person gets their own link.
 5. Choose **Create link**. Relua encrypts the videos and comments and uploads them.
-6. Copy the link, or choose **Email** beside a person to start a message to them in your mail app.
+6. Copy the link and send it yourself. Relua emails the people you entered as email addresses their links, unless you clear **Email them the link**.
 
-Relua does not send the emails. The people you name never reach our servers except as a label only your computer can read.
+The email comes from Relua with your name on it, and replies go to your account's email address. Choose **Email** beside a person afterwards to send theirs if you left the box clear.
 
 ## Open a link
 
@@ -33,13 +33,15 @@ Relua does not send the emails. The people you name never reach our servers exce
 
 ## See who opened it
 
-**Settings › Account** lists your links, how many times each was opened, and when each person you named opened theirs. Choose **Revoke** to stop a link now.
+**Settings › Account** lists the links that still work, how many times each was opened, and when each person you named opened theirs. Choose **Revoke** to stop a link now.
 
 Relua can only tell people apart by the link they use. A forwarded link counts as the person you gave it to.
 
 ## How it stays private
 
 Relua encrypts everything on your computer with AES-256 before it uploads. The key is the part of the link after `#`. Browsers never send that part to a server, so we store data we cannot read. That covers the videos, comments, voice notes, titles, and the names you type under **People**.
+
+An emailed link is the exception. To email someone their link, Relua's servers and email provider handle their address, your name, the title, and the link with its key while the email is sent. We keep only the time it was sent. Clear **Email them the link** to keep a link from passing through us.
 
 Anyone who has the whole link can open it, so send it the way you would send the video itself.
 

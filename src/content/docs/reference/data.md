@@ -46,7 +46,7 @@ Relua works offline. It contacts GitHub to check for an update when it opens and
 
 A Relua folder inside a cloud drive is carried by that cloud drive, not by Relua.
 
-Relua contacts relua.us only if you sign in to an account or use a [share link](/share/links/). Creating a link uploads the videos and comments you chose, encrypted on your computer with a key that we never receive. Importing a link downloads them.
+Relua contacts relua.us only if you sign in to an account or use a [share link](/share/links/). Creating a link uploads the videos and comments you chose, encrypted on your computer with a key that we do not keep. We only handle the key if you have Relua email the link, and only to send that email. Importing a link downloads them.
 
 ## Keep it safe
 
